@@ -1,1 +1,1 @@
-# Gradient-Boosting-Case-Study---Titantic
+# Gradient-Boosting-Case-Study
